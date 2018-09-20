@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewDemo</string>
+    <string name="sampleline">Hello World \nThis is a text \nThis is a text \nThis is a text</string>
+    <string name="imgDesc">Image Sample</string>
+</resources>
