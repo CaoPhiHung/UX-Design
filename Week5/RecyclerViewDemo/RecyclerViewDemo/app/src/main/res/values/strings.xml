@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="movies">Movies</string>
+    <string name="tvshow">TV SHOW</string>
+    <string name="tabAllItems">All Item</string>
+    <string name="imgDesc">Description</string>
+</resources>

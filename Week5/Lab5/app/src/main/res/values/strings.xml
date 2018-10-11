@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="tab_all_item">All Items</string>
-    <string name="tab_movies">All Movies</string>
-    <string name="tab_all_tvShow">All TV Shows</string>
-    <string name="imgDesc">Image Desc</string>
-</resources>
